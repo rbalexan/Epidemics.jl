@@ -1,0 +1,4 @@
+name = "Epidemics"
+uuid = "cb983a94-10cf-4d71-a6bc-d27d892bd86b"
+authors = ["rbalexan <rbalexan@stanford.edu>"]
+version = "0.1.0"
